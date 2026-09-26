@@ -1,5 +1,7 @@
 # weightsmith — post-training weight quantization from scratch
 
+[![tests](https://github.com/lukatkem/weightsmith/actions/workflows/tests.yml/badge.svg)](https://github.com/lukatkem/weightsmith/actions/workflows/tests.yml) ![tests](https://img.shields.io/badge/tests-40_passing-2ea44f)
+
 **Shrink a model 2× with provable quality — every quantization scheme from scratch.**
 
 ## Why this matters
